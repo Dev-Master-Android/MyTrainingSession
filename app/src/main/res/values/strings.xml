@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyTrainingSession</string>
+    <string name="Exercise">Упражнение</string>
+    <string name="train">Тренировки по фитнесу</string>
+    <string name="start_image_description">Стартовая картинка</string>
+    <string name="title_training">Начало тренировки</string>
+    <string name="start_button">Переход к тренировке</string>
+    <string name="action_exit">Выход</string>
+    <string name="exercise_squat">Приседания</string>
+    <string name="exercise_runninginplace">Бег на месте</string>
+    <string name="exercise_pushup">Отжимания</string>
+    <string name="exercise_plank">Пресс</string>
+    <string name="exercise_jump">Прыжки</string>
+    <string name="exercise_armraise">Упражнения на руках</string>
+    <string name="exercise_legslift">Упражнения на ногах</string>
+    <string name="exercise_backlift">Упражнения на спине</string>
+    <string name="exercise_chestlift">Упражнения на живот</string>
+    <string name="exercise_handandlegslift">Упражнения на руках и ногах</string>
+    <string name="desc_squat">Выполните приседание, опустившись до уровня бедер. Затем поднимитесь вверх, не забывая держать спину прямой.</string>
+    <string name="desc_runninginplace">Выполните бег на месте, поднимая колени к груди. Держите руки вдоль тела, а ноги поднимайте быстро.</string>
+    <string name="desc_pushup">Выполните отжимание, положив руки на пол шире плеч. Опустите тело вниз, а затем поднимитесь вверх, не забывая держать корпус прямым.</string>
+    <string name="desc_plank">Выполните упражнение на пресс, лежа на спине. Удерживайте руки вдоль тела, а ноги поднимайте к потолку.</string>
+    <string name="desc_jump">Выполните прыжок на месте, поднимая ноги к груди. Держите руки вдоль тела и не забывайте держать спину прямой.</string>
+    <string name="desc_armraise">Выполните упражнение на руках, положив ладони на пол. Удерживайте корпус прямым, а руки поднимайте к потолку.</string>
+    <string name="desc_legslift">Выполните прыжки в сторону, как на коньках. Удерживайте руки вдоль тела, а ноги поднимайте к боку.</string>
+    <string name="desc_backlift">Выполните упражнение на спине, лежа на спине. Удерживайте руки вдоль тела, а ноги поднимайте к потолку.</string>
+    <string name="desc_chestlift">Выполните упражнение на животе, лежа на спине. Удерживайте руки вдоль тела, а ноги поднимайте к потолку, не забывая о том, что ноги должны быть подняты к потолку.</string>
+    <string name="desc_handandlegslift">Выполните упражнение на руках и ногах, стоя на коленях. Удерживайте корпус прямым, а руки и ноги поднимайте к вперед и назад параллельно полу.</string>
+    <string name="complete">Программа завершена</string>
+    <string name="train_complete">Тренировка завершена</string>
+    <string name="start_again">Начать снова</string>
+    <string name="upr_complete">Упражнение завершено</string>
+
+
+</resources>

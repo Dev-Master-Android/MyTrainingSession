@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="layout_margin_bottom">16dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+    <dimen name="image_size">200dp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="text_size_medium">22sp</dimen>
+    <dimen name="text_size_small">16sp</dimen>
+    <dimen name="text_size_timer">20sp</dimen>
+    <dimen name="toolbar_height">?attr/actionBarSize</dimen>
+    <dimen name="list_divider_height">1dp</dimen>
+
+</resources>
